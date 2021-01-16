@@ -21,7 +21,7 @@ public class Test_Utils extends TestBase {
 	public List Provide_Data(String Test_Name) throws IOException, InterruptedException {
 		List data = new ArrayList();
 		FileInputStream fis = new FileInputStream(
-				"C:\\Users\\ashok\\eclipse-workspace-1\\Resolver\\src\\main\\java\\com\\resolver\\TestData\\TestData_Resolver.xlsx");
+				"C:\\Users\\ashok\\eclipse-workspace-1\\Res_Test\\src\\main\\java\\com\\resolver\\TestData\\TestData_Resolver.xlsx");
 		XSSFWorkbook wbk = new XSSFWorkbook(fis);
 		XSSFSheet sheet = wbk.getSheetAt(0);
 

@@ -17,7 +17,7 @@ public class TestBase {
 		driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		wait = new WebDriverWait(driver, 10);
-		driver.get("C:/Users/ashok/eclipse-workspace-1/Resolver/Application/index.html");
+		driver.get("C:/Users/ashok/eclipse-workspace-1/Res_Test/Application/index.html");
 
 	}
 

@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Resolver" duration-ms="70589" started-at="2021-01-16T12:35:05 IST" finished-at="2021-01-16T12:36:15 IST">
+  <suite started-at="2021-01-16T13:04:22 IST" name="Resolver" finished-at="2021-01-16T13:05:50 IST" duration-ms="87535">
     <groups>
     </groups>
-    <test name="Resolver Test" duration-ms="70589" started-at="2021-01-16T12:35:05 IST" finished-at="2021-01-16T12:36:15 IST">
+    <test started-at="2021-01-16T13:04:22 IST" name="Resolver Test" finished-at="2021-01-16T13:05:50 IST" duration-ms="87535">
       <class name="com.Resolver.Tests.Test4">
-        <test-method status="PASS" signature="startUp()[pri:0, instance:com.Resolver.Tests.Test4@1f28c152]" name="startUp" is-config="true" duration-ms="7080" started-at="2021-01-16T12:36:01 IST" finished-at="2021-01-16T12:36:09 IST">
+        <test-method is-config="true" signature="startUp()[pri:0, instance:com.Resolver.Tests.Test4@757acd7b]" started-at="2021-01-16T13:05:37 IST" name="startUp" finished-at="2021-01-16T13:05:43 IST" duration-ms="6766" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startUp -->
-        <test-method status="PASS" signature="verify_Filter_ComboBox()[pri:0, instance:com.Resolver.Tests.Test4@1f28c152]" name="verify_Filter_ComboBox" duration-ms="3129" started-at="2021-01-16T12:36:09 IST" finished-at="2021-01-16T12:36:12 IST">
+        <test-method signature="verify_Filter_ComboBox()[pri:0, instance:com.Resolver.Tests.Test4@757acd7b]" started-at="2021-01-16T13:05:43 IST" name="verify_Filter_ComboBox" finished-at="2021-01-16T13:05:46 IST" duration-ms="3105" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_Filter_ComboBox -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Resolver.Tests.Test4@1f28c152]" name="tearDown" is-config="true" duration-ms="3732" started-at="2021-01-16T12:36:12 IST" finished-at="2021-01-16T12:36:15 IST">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Resolver.Tests.Test4@757acd7b]" started-at="2021-01-16T13:05:46 IST" name="tearDown" finished-at="2021-01-16T13:05:50 IST" duration-ms="3611" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.Resolver.Tests.Test4 -->
       <class name="com.Resolver.Tests.Test2">
-        <test-method status="PASS" signature="startUp()[pri:0, instance:com.Resolver.Tests.Test2@731a74c]" name="startUp" is-config="true" duration-ms="7876" started-at="2021-01-16T12:35:25 IST" finished-at="2021-01-16T12:35:33 IST">
+        <test-method is-config="true" signature="startUp()[pri:0, instance:com.Resolver.Tests.Test2@45ca843]" started-at="2021-01-16T13:04:41 IST" name="startUp" finished-at="2021-01-16T13:05:08 IST" duration-ms="27253" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startUp -->
-        <test-method status="PASS" signature="verify_Filter_ComboBox()[pri:0, instance:com.Resolver.Tests.Test2@731a74c]" name="verify_Filter_ComboBox" duration-ms="7495" started-at="2021-01-16T12:35:33 IST" finished-at="2021-01-16T12:35:40 IST">
+        <test-method signature="verify_Filter_ComboBox()[pri:0, instance:com.Resolver.Tests.Test2@45ca843]" started-at="2021-01-16T13:05:08 IST" name="verify_Filter_ComboBox" finished-at="2021-01-16T13:05:15 IST" duration-ms="7477" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_Filter_ComboBox -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Resolver.Tests.Test2@731a74c]" name="tearDown" is-config="true" duration-ms="3861" started-at="2021-01-16T12:35:40 IST" finished-at="2021-01-16T12:35:44 IST">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Resolver.Tests.Test2@45ca843]" started-at="2021-01-16T13:05:15 IST" name="tearDown" finished-at="2021-01-16T13:05:19 IST" duration-ms="3646" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.Resolver.Tests.Test2 -->
       <class name="com.Resolver.Tests.Test3">
-        <test-method status="PASS" signature="startUp()[pri:0, instance:com.Resolver.Tests.Test3@369f73a2]" name="startUp" is-config="true" duration-ms="6650" started-at="2021-01-16T12:35:44 IST" finished-at="2021-01-16T12:35:51 IST">
+        <test-method is-config="true" signature="startUp()[pri:0, instance:com.Resolver.Tests.Test3@11c9af63]" started-at="2021-01-16T13:05:19 IST" name="startUp" finished-at="2021-01-16T13:05:26 IST" duration-ms="7191" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startUp -->
-        <test-method status="PASS" signature="verify_Filter_ComboBox()[pri:0, instance:com.Resolver.Tests.Test3@369f73a2]" name="verify_Filter_ComboBox" duration-ms="6825" started-at="2021-01-16T12:35:51 IST" finished-at="2021-01-16T12:35:58 IST">
+        <test-method signature="verify_Filter_ComboBox()[pri:0, instance:com.Resolver.Tests.Test3@11c9af63]" started-at="2021-01-16T13:05:26 IST" name="verify_Filter_ComboBox" finished-at="2021-01-16T13:05:33 IST" duration-ms="6784" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_Filter_ComboBox -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Resolver.Tests.Test3@369f73a2]" name="tearDown" is-config="true" duration-ms="3680" started-at="2021-01-16T12:35:58 IST" finished-at="2021-01-16T12:36:01 IST">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Resolver.Tests.Test3@11c9af63]" started-at="2021-01-16T13:05:33 IST" name="tearDown" finished-at="2021-01-16T13:05:37 IST" duration-ms="3603" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.Resolver.Tests.Test3 -->
       <class name="com.Resolver.Tests.Test1">
-        <test-method status="PASS" signature="startUp()[pri:0, instance:com.Resolver.Tests.Test1@4b4523f8]" name="startUp" is-config="true" duration-ms="8962" started-at="2021-01-16T12:35:05 IST" finished-at="2021-01-16T12:35:14 IST">
+        <test-method is-config="true" signature="startUp()[pri:0, instance:com.Resolver.Tests.Test1@1d8bd0de]" started-at="2021-01-16T13:04:22 IST" name="startUp" finished-at="2021-01-16T13:04:30 IST" duration-ms="7889" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startUp -->
-        <test-method status="PASS" signature="open_Modal_Test()[pri:0, instance:com.Resolver.Tests.Test1@4b4523f8]" name="open_Modal_Test" duration-ms="7500" started-at="2021-01-16T12:35:14 IST" finished-at="2021-01-16T12:35:21 IST">
+        <test-method signature="open_Modal_Test()[pri:0, instance:com.Resolver.Tests.Test1@1d8bd0de]" started-at="2021-01-16T13:04:30 IST" name="open_Modal_Test" finished-at="2021-01-16T13:04:37 IST" duration-ms="6478" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- open_Modal_Test -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Resolver.Tests.Test1@4b4523f8]" name="tearDown" is-config="true" duration-ms="3725" started-at="2021-01-16T12:35:21 IST" finished-at="2021-01-16T12:35:25 IST">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Resolver.Tests.Test1@1d8bd0de]" started-at="2021-01-16T13:04:37 IST" name="tearDown" finished-at="2021-01-16T13:04:41 IST" duration-ms="3682" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
